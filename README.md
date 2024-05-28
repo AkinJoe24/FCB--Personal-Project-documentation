@@ -1,7 +1,7 @@
 # FCB Project documentation
 ---
 # Project Outline
-The aim of this project is to get preference of the value of health
+The aim of this project is to get preference for the value of healthcare
 ---
 # Data Sources
 Data are collected from questionaire filled by patient in the private and public hospital
