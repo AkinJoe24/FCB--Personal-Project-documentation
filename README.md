@@ -12,5 +12,12 @@ Data are collected from questionaire filled by patient in the private and public
 - Python
 - Google Sheet
 ---
-
+|Name |Gender |Occupation |
+|------|------|------|
+|Joseph |Male |Banker |
+|Dayo |Male |Doctor |
+---
 ![](aab.jpg)
+![](a.png)
+---
+
