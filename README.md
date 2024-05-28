@@ -13,8 +13,4 @@ Data are collected from questionaire filled by patient in the private and public
 - Google Sheet
 ---
 
-```
-
-Google Query Sheet
-=QUERY(A:H, "SELECT A,B,C WHERE (B='Richard' OR B='Morgan')", 1)
-
+![](aab.jpg)
